@@ -1,4 +1,11 @@
 {
   "name": "lyryinx",
-  "displayName": "lyryinx"
+  "displayName": "lyryinx",
+  "expo": {
+    "name": "lyrynix",
+    "slug": "lyrynix",
+    "sdkVersion": "UNVERSIONED",
+    "privacy": "public",
+    "appKey": "lyryinx"
+  }
 }
